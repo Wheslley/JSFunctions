@@ -1,5 +1,5 @@
 /**
- * Funções Higher Order
+ * Functions Higher Order
  */
 
 const insertTataraneto = tataraneto => {

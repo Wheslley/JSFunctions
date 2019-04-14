@@ -1,5 +1,5 @@
 /**
- * Funcoes de Primeira Classe
+ * Functions de Primeira Classe
  */
 
 const sum = (x, y) => {

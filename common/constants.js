@@ -1,4 +1,8 @@
-const pai = { nome: "Fiorindo", sobrenome: "Moro" };
+/**
+ * Constants
+ */
+
+ const pai = { nome: "Fiorindo", sobrenome: "Moro" };
 
 const filho = { nome: "Francisco", sobrenome: "Moro" };
 

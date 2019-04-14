@@ -1,3 +1,7 @@
+/**
+ * Map
+ */
+
 const { numbers, students, teachers } = require('../common/constants')
 
 const square = x => x * x;
