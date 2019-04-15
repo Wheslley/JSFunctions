@@ -7,3 +7,5 @@
 ```Map```
 
 ```Filter```
+
+```Reduce```
