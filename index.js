@@ -9,7 +9,7 @@ const { Filter } = require('./filter/filter')
 const { Reduce } = require('./reduce/reduce')
 const { pai, filho, neto, bisneto, tataraneto } = require("./common/constants");
 
-const main = async () => {
+const main = () => {
   Calcule();
   AuditingParent(pai, filho, neto, bisneto, tataraneto);
   FunctionMap();
